@@ -62,6 +62,8 @@ params:
 
   # Extra links in navigation
   links:
+    - name: 关于
+      path: https://lightquantum.me
     ## e.g.
     # - name: Project
     #   path: /project
